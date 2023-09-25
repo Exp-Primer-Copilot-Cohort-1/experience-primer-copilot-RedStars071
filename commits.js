@@ -1,4 +1,4 @@
-// Create web server node.js
+// Create web server 
 var http = require('http');
 
 // Create web server
